@@ -115,7 +115,7 @@ pre {
 
 main pre {
   background-color: var(--light-color);
-  padding: 10em;
+  padding: 1em;
   border-radius: .25em;
   overflow-x: auto;
   white-space: pre;
@@ -193,7 +193,7 @@ main .section {
 
 @media (width >= 600px) {
   main .section {
-    padding: 64px 32px;
+    padding: 100px 100px;
   }
 }
 
