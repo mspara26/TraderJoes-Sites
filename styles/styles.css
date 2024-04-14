@@ -62,7 +62,7 @@
 
 body {
   font-size: var(--body-font-size-m);
-  margin: 10;
+  margin: 100;
   font-family: var(--body-font-family);
   line-height: 1.6;
   color: var(--text-color);
