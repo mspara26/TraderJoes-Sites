@@ -62,7 +62,7 @@
 
 body {
   font-size: var(--body-font-size-m);
-  margin: 100;
+  margin: 0;
   font-family: var(--body-font-family);
   line-height: 1.6;
   color: var(--text-color);
@@ -115,7 +115,7 @@ pre {
 
 main pre {
   background-color: var(--light-color);
-  padding: 1em;
+  padding: 10em;
   border-radius: .25em;
   overflow-x: auto;
   white-space: pre;
